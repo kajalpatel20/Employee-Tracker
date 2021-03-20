@@ -1,5 +1,4 @@
 # Employee Tracker
-
  ## Description: 
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
@@ -59,11 +58,15 @@ Build a command-line application that at a minimum allows the user to:
 
 * Use [console.table](https://www.npmjs.com/package/console.table) to print MySQL rows to the console. There is a built-in version of `console.table`, but the NPM package formats the data a little better for our purposes.
 
-![Employee Tracker](Assets/employee-tracker.gif)
-
 * Check out [SQL Bolt](https://sqlbolt.com/) for some extra MySQL help.
+## Contributing:
+ ![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)
+
+ Link to Contributor's Covenant:[Contributors Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) 
 
 ## Tests:
+
+![Employee Tracker](Assets/employee-tracker.gif)
 
 * Functional application.
 
@@ -74,8 +77,6 @@ Build a command-line application that at a minimum allows the user to:
   * View departments, roles, employees
 
   * Update employee roles
-
-  * This command-line application allow users to:
 
   * Update employee managers
 
@@ -93,12 +94,10 @@ Build a command-line application that at a minimum allows the user to:
   * A video demonstrating the entirety of the app's functionality:
 
   [demo video link]()
-
 ## License:
  APACHE 2.0
 
   [![Github License](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)]
-
 ## Questions:
 
 The repo for this project can be found here: https://github.com/kajalpatel20/Employee-Tracker
