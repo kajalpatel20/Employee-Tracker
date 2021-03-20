@@ -59,7 +59,7 @@ Build a command-line application that at a minimum allows the user to:
 
 * Use [console.table](https://www.npmjs.com/package/console.table) to print MySQL rows to the console. There is a built-in version of `console.table`, but the NPM package formats the data a little better for our purposes.
 
-      ![Employee Tracker](Assets/employee-tracker.gif)
+![Employee Tracker](Assets/employee-tracker.gif)
 
 * Check out [SQL Bolt](https://sqlbolt.com/) for some extra MySQL help.
 
