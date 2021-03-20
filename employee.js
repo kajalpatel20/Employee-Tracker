@@ -1,6 +1,7 @@
 const mysql = require('mysql');
 const inquirer = require('inquirer');
 // const { inherits } = require('util');
+
 // const connection = require('./db/connection');
 const consoleTable = require('console.table');
 // const { create } = require('domain');
