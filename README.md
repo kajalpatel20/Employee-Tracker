@@ -93,7 +93,7 @@ Build a command-line application that at a minimum allows the user to:
 
   * A video demonstrating the entirety of the app's functionality:
 
-  [demo video link]()
+  [demo video link](https://drive.google.com/file/d/1TNe_0Uu801tGwmI8QZJTrbuoGWhnoUvh/view?usp=sharing)
 ## License:
  APACHE 2.0
 
